@@ -21,7 +21,7 @@ def add_cors_headers(response):
 
 @app.route("/teste")
 def teste():
-    return "Rota teste OK"
+    return "Rota teste OK MELHORADA 2.0 sksksksksk"
 
 # curl http://127.0.0.1:5000/teste
 
